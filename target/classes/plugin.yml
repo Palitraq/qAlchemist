@@ -1,9 +1,0 @@
-name: PrimeAlchemist
-version: '1.2.4'
-main: ru.spigotmc.destroy.primealchemist.PrimeAlchemist
-api-version: '1.21'
-softdepend: [ Vault ]
-commands:
-  alchemist:
-    description: Открыть меню алхимика
-    usage: /alchemist
